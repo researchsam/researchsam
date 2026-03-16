@@ -15,4 +15,4 @@ PhD researcher at Iowa State University building data-driven tools for water qua
 - Climate-gated nitrogen load analysis across 99 Iowa counties (under review, ACS ES&T Water)
 - County-scale nitrogen load estimation using USGS streamflow data (under review, J. Environmental Quality)
 
-📫 samuelmsoetan@gmail.com · [LinkedIn]([https://linkedin.com/in/samuelsoetan](https://www.linkedin.com/in/samuel-mayokun-soetan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt2wnnqHyT%2BaHh38HLHVmFQ%3D%3D))
+📫 samuelmsoetan@gmail.com · [https://linkedin.com/in/samuelsoetan](https://www.linkedin.com/in/samuel-mayokun-soetan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt2wnnqHyT%2BaHh38HLHVmFQ%3D%3D))
